@@ -1,3 +1,3 @@
 [submodule "Assets/TowerOfMemoriesCode"]
 	path = Assets/TowerOfMemoriesCode
-	url = ssh://git@castleopuzzles.ga:9022/mmd/TowerOfMemoriesCode.git
+	url = ../TowerOfMemoriesCode.git
