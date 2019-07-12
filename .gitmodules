@@ -3,4 +3,4 @@
 	url = ../TowerOfMemoriesCode.git
 [submodule "Assets/TowerOfMemoriesMaps"]
 	path = Assets/TowerOfMemoriesMaps
-	url = ssh://git@castleopuzzles.ga:9022/mmd/TowerOfMemoriesMaps.git
+	url = ../TowerOfMemoriesMaps.git
